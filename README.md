@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DylanSCRIPTGUY
+- 👀 I’m interested in ... Making small terminal programs.
+- 🌱 I’m currently learning ... the C language
+- 💞️ I’m looking to collaborate on ... The GNU project

@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DylanSCRIPTGUY
-- 👀 I’m interested in ... Making small terminal programs.
-- 🌱 I’m currently learning ... Html and Css
-- 💞️ I’m looking to collaborate on ... The GNU project
+- 👀 I’m interested in ... Operating systems
+- 🌱 I’m currently learning ... PHP and Assembly
+- 💞️ I’m looking to collaborate on ... An operating system
